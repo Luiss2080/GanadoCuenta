@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "GanadoCuenta",
+    "slug": "ganadocuenta",
+    "scheme": "ganadocuenta",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.luiss2080.ganadocuenta"
+    },
+    "android": {
+      "package": "com.luiss2080.ganadocuenta"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-notifications"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
